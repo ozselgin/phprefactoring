@@ -1,13 +1,12 @@
-Refactoring, Spagetti Koddan Nasıl Kurtulurum?
-==============================================
+##Refactoring, Spagetti Koddan Nasıl Kurtulurum?
 
 Burada bir e-ticaret sitesi için yorum sayfası bulunuyor. 8 adımda (versiyon) bu sayfayı yazılım prensiplerine uygun bir yapıya getiriyoruz. Bu kodlar phpgunleri (phpgunler.org) sunumu için hazırlanmıştır, sunum pdf olarak "sunum dosyasi" klasörünün altında bulunuyor. Versiyonlar arası farkları sunum dosyası ayrıntılı olarak içeriyor.
 
-#Veritabani Kurulumu
+###Veritabani Kurulumu
 
 veritabani_kurulum klasörünün altında yorumlar.sql dosyası bulunuyor. Her hangibir mysql yönetim programıyla -phpmyadmin gibi- proje veritabanı oluşturulabilir.
 
-#Versiyonlar arası URL yapısı farklılıkları
+###Versiyonlar arası URL yapısı farklılıkları
 
 İyileştirmeler yaptıkça URL yapımız değişiyor. Aşağıdaki açıklamalar versiyonlar arası URL farklarını belirtiyor.
 
