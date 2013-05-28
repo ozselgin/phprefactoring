@@ -1,10 +1,10 @@
 ##Refactoring, Spagetti Koddan Nasıl Kurtulurum?
 
-Burada bir e-ticaret sitesi için yorum sayfası bulunuyor. 8 adımda (versiyon) bu sayfayı yazılım prensiplerine uygun bir yapıya getiriyoruz. Bu kodlar phpgunleri (phpgunler.org) sunumu için hazırlanmıştır, sunum pdf olarak "sunum dosyasi" klasörünün altında bulunuyor. Versiyonlar arası farkları sunum dosyası ayrıntılı olarak içeriyor.
+Burada farazi bir e-ticaret sitesi için ürün yorum sayfası kodları bulunuyor. 8 adımda (versiyon) bu sayfayı yazılım prensiplerine uygun bir yapıya getiriyoruz. Kodlar phpgunleri (phpgunler.org) sunumu için hazırlanmıştı, sunum pdf olarak "sunum dosyasi" klasörünün altında bulunuyor. Versiyonlar arası farkları daha iyi anlamak için sunum dosyası incelenebilir.
 
 ###Veritabani Kurulumu
 
-veritabani_kurulum klasörünün altında yorumlar.sql dosyası bulunuyor. Her hangibir mysql yönetim programıyla -phpmyadmin gibi- proje veritabanı oluşturulabilir.
+veritabani_kurulum klasörünün altında yorumlar.sql dosyası bulunuyor. Herhangi bir mysql yönetim programıyla -phpmyadmin gibi- proje veritabanı oluşturulabilir.
 
 ###Versiyonlar arası URL yapısı farklılıkları
 
